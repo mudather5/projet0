@@ -21,24 +21,9 @@ input[type=submit]{
   width: 20%;
   height: 35px;
 }
+nav{
+  height: 450px;
+}
 footer{
-  position: absolute;
-  margin-top: 15%;
-  background: rgb(220,220,220);
-  height: 50px;
-  width: 100%;
- 
-}
-.footer-right,
-.footer-left{
-  display: inline-block;
-
-  
-}
-.footer-left{
-  margin-left: 750px
-
-}
-.footer-left{
-  text-align: left;
+  margin: auto;
 }
